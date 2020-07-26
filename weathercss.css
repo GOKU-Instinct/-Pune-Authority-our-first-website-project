@@ -1,0 +1,33 @@
+h1{
+	color:white;
+	overflow:hidden;
+	background-color:#3333cc;
+	width: 100%;
+	margin:0;
+	padding:0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: lightgray;
+}
+li{
+	float: left;
+}
+li a{
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+    background-color:yellow;
+    text-align:center;
+}
+li a:hover{
+	display: block;
+	color: white;
+	background-color:black;
+}
+body{
+	background-color: #66a3ff;
+}

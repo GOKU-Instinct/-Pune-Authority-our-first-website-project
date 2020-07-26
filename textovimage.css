@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 100%;
+	height: auto;
+	overflow:hidden;
+	background-color: powderblue;
+}
+..image-wrapper{
+   width:100%;
+   margin:15% 40% 4% 4%;
+}
+.image-wrapper img{
+	width:100%;
+
+}
+.text-wrapper{
+	width: 100%;
+	position: relative;
+	margin-top: -50%;
+}
+.text-wrapper h1{
+	text-align:center;
+	color:white;
+	font-size:10vw;
+	font-family:'lobster',cursive;
+}

@@ -1,0 +1,15 @@
+input[type=text]{
+	width: 100%;
+	padding: 10px 12px;
+	margin-top: -50%;
+	box-sizing: border-box;
+	border:2px solid powderblue;
+	border-radius: 10px;
+	font-family:monospace;
+}
+form{
+	font-family:calibri;
+	font-size:10px;
+	margin: 30px 30px 30px 30 px;
+	font-color:black;
+}

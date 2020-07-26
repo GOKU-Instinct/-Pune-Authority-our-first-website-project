@@ -1,0 +1,39 @@
+body
+{background-color:#66a3ff;
+}
+.heading
+{ border:solid;
+  padding:50px;
+  background-color:#3333cc;
+  color:black;
+}
+.main
+{ padding:3px;
+  border-left:solid;
+  background-color:powderblue;
+  border-bottom:dotted;
+  text-decoration:none;
+  
+
+  }
+.main a:hover{
+color:white;
+
+}
+.button
+{  height:80px;
+   width:500px;
+   background-color=#00807a;
+   color:#66a3ff;}
+
+.side
+{ 
+  
+  background-color:white;
+  border:solid;
+  width:200%;
+  height:300px;
+}
+
+
+                 
